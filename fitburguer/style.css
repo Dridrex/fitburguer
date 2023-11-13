@@ -1,0 +1,35 @@
+.error-box{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(227, 224, 230);
+    border-radius: 10px;
+    margin-left: 650px;
+    margin-right: 650px;
+}
+
+.body{
+    background-color: gray;
+}
+
+
+.caixa-login{
+    display: flex;
+    justify-content: center;
+    margin-top: 340px;
+    background-image: url(imagens/marmitas\ cortada.jpg);
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 15px;
+    
+}
+
+
+.error.item{
+    padding:5px;
+    color:white;
+}
+
+.bg-user{
+    background-color: aquamarine;
+}
+
